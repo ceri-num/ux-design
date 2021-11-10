@@ -5,20 +5,19 @@
 
 # Organisation du cours
 Cette introduction s'intègre dans l'**UV CDAW** et participe au projet global par lequel vous serez évalué.
-1. **Lundi 9 novembre (2 heures)** Planification : du blabla, des définitions, un peu d'ergonomie et de principes sur le graphisme (ou l'inverse).
 
-2. **Vendredi 13 novembre (4 heures)** Exploration, Idéation : il faut définir des scénarios utilisateurs. Génération : vous allez faire une maquette avec un outil de... maquettage, puis on va évaluer tout ça par des utilisateurs.
-3. **Lundi 16 novembre (4 heures)** Génération : Vous savez faire du CSS et du HTML ? Ça tombe bien ! Mise en pratique pour votre projet, passer d'une maquette à une autre maquette.
-4. **Vendredi 20 novembre (2 heures)** Évaluation : Nouvelle évaluation, chacun va présenter son travail en 5 minutes avec des arguments (pourquoi du rouge ? Et pourquoi mes tuiles sont en pixelart ?) et fin.
+1. **Lundi 9 novembre (14h00 à 17h30)** Du blabla, des définitions, un peu d'ergonomie et de principes sur le graphisme (ou l'inverse). On parlera Planification, Exploration, Idéation, Génération, Evaluation, et tutti quanti.
+2. **Mardi 10 novembre (9h00 à 12h30)** Le temps nous étant compté, nous irons droit au but : générer le squelette d'une application Web sur la base d'un template existant. Un peu de technique (HTML, CSS) et pas mal de créativité.
+3. **Lundi 22 novembre (14h00 à 17h30)** Un créneau pour votre projet avec un accompagnement constructif :-)
 
 # Évaluation du cours
-Ce cours sera donc évaluer au travers du projet que vous réaliserez lors de l'UV CDAW. Je prendrai en compte les arguments de la présentation que vous ferez lors de la dernière séance pour ajuster la notation. Globalement, on s'intéresse ici aux aspects méthodologiques, graphiques, ergonomiques et imaginatifs. En gros, je vais observer vos compétences : 
+Ce cours sera donc évalué au travers du projet que vous réaliserez lors de l'UV CDAW. Globalement, on s'intéresse ici aux aspects méthodologiques, graphiques, ergonomiques et imaginatifs. En gros, je vais observer vos compétences : 
 * **organisationelles** (au niveau projet et travail collaboratif), 
 * **artistiques** (pas votre niveau en dessin ou en musique, on est d'accord, mais votre capacité à créer du beau), 
-* **d'analyse** (sur voter travail et celui de vos collègues),
+* **d'analyse** (sur votre travail et celui de vos collègues),
 * **d'ingénieur-designer responsable** (tout ça en même temps : j'ai un problème, je cherche une solution SMART, belle et durable)
 
-Mais en 12 heures seulement, je serai pragmatique :-D
+Mais tout ça en moins d'un mois, je serai pragmatique :-D
 
 # Introduction à l'UX Design, la conception centrée utilisateur
 Le livrable de l'UV CDAW est de réaliser un site Web, ou plutôt une application Web, à partir d'un cahier des charges simplifié. Quand on parle de site Web ou d'application Web, on fait forcément référence à un usage et à des utilisateurs (à moins de faire du développement Web pour votre plaisir personnel). Depuis les années 2000 (mais on en parlait déjà en 1986 avec [Norman et Draper](https://dl.acm.org/doi/book/10.5555/576915) et le concept de Conception Centrée Utilisateurs ou CCU), l'expérience utilisateur (*User eXperience* ou UX) et l'*UX Design* (et par extension l'*UI Design*) a été mise en avant pour faciliter l'adéquation entre les outils et les humains qui les utiliseront. Tout ça peut paraitre évident, mais encore aujourd'hui, beaucoup de développement se font indépendamment des utilisateurs...
@@ -58,7 +57,7 @@ J'adhère volontiers au cycle (processus) suivant en 5 sous-processus (eux-même
 
 ![Cycle de conception itératif des systèmes intéractifs](resources/cycle_UX_lallemand_gronier_2018.png)
 
-De mon point de vue, l'UX Design fait le lien entre les sciences de l'informatique et les sciences humaines et sociales. Il faut comprendre l'humain pour permettre l'interaction avec la machine. Je vous conseille d'ailleurs de lire les articles de Turing ou à défaut le bouquin [Turing à la plage](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat) (ou pourquoi on s'est amusé à créer des langages informatiques entre autres). Néanmoins et d'une façon générale, les principes de l'UX Design peuvent se généraliser à toute production (en lien avec l'informatique ou non) impliquant des utilisateurs humains, rejoingant alors les principes du Design (au sens premier du terme).
+De mon point de vue, l'UX Design fait le lien entre les sciences de l'informatique et les sciences humaines et sociales. Il faut comprendre l'humain pour permettre l'interaction avec la machine. Je vous conseille d'ailleurs de lire les articles de Turing ou à défaut le bouquin [Turing à la plage](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat) (ou pourquoi on s'est amusé à créer des langages informatiques entre autres). Néanmoins et d'une façon générale, les principes de l'UX Design peuvent se généraliser à toute production (en lien avec l'informatique ou non) impliquant des utilisateurs humains, rejoignant alors les principes du Design (au sens premier du terme).
 
 Pour chaque sous-processus, nous allons évoquer (malheureusement avec peu de détails étant donnée la durée du cours) des outils, des méthodes et des conseils qui permettent de mener à bien un processus global avec l'UX Design. Ce dernier étant assez récent, il apparait chaque année de nouveaux outils et de nouvelles méthodes. Il vous faudra au court de votre carrière réaliser une veille permanente pour pouvoir choisir ceux et celles qui conviendront.
 
