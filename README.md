@@ -6,9 +6,9 @@
 # Organisation du cours
 Cette introduction s'intègre dans l'**UV CDAW** et participe au projet global par lequel vous serez évalué.
 
-1. **Lundi 9 novembre (14h00 à 17h30)** Du blabla, des définitions, un peu d'ergonomie et de principes sur le graphisme (ou l'inverse). On parlera Planification, Exploration, Idéation, Génération, Evaluation, et tutti quanti.
-2. **Mardi 10 novembre (9h00 à 12h30)** Le temps nous étant compté, nous irons droit au but : générer le squelette d'une application Web sur la base d'un template existant. Un peu de technique (HTML, CSS) et pas mal de créativité.
-3. **Lundi 22 novembre (14h00 à 17h30)** Un créneau pour votre projet avec un accompagnement constructif :-)
+1. **Lundi 21 novembre (8h00 à 12h00)** Du blabla, des définitions, un peu d'ergonomie et de principes sur le graphisme (ou l'inverse). On parlera Planification, Exploration, Idéation, Génération, Evaluation, et tutti quanti.
+2. **Mardi 25 novembre (14h00 à 18h00)** Le temps nous étant compté, nous irons droit au but : générer le squelette d'une application Web sur la base d'un template existant. Un peu de technique (HTML, CSS) et pas mal de créativité.
+3. **Lundi 9 décembre (14h00 à 18h00)** Un créneau pour votre projet avec un accompagnement constructif :-)
 
 # Évaluation du cours
 Ce cours sera donc évalué au travers du projet que vous réaliserez lors de l'UV CDAW. Globalement, on s'intéresse ici aux aspects méthodologiques, graphiques, ergonomiques et imaginatifs. En gros, je vais observer vos compétences : 
