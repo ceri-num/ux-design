@@ -6,9 +6,9 @@
 # Organisation du cours
 Cette introduction s'intègre dans l'**UV CDAW** et participe au projet global par lequel vous serez évalué.
 
-1. **Lundi 21 novembre (8h00 à 12h00)** Du blabla, des définitions, un peu d'ergonomie et de principes sur le graphisme (ou l'inverse). On parlera Planification, Exploration, Idéation, Génération, Evaluation, et tutti quanti.
-2. **Mardi 25 novembre (14h00 à 18h00)** Le temps nous étant compté, nous irons droit au but : générer le squelette d'une application Web sur la base d'un template existant. Un peu de technique (HTML, CSS) et pas mal de créativité.
-3. **Lundi 9 décembre (14h00 à 18h00)** Un créneau pour votre projet avec un accompagnement constructif :-)
+1. **Première séance** Du blabla, des définitions, un peu d'ergonomie et de principes sur le graphisme (ou l'inverse). On parlera Planification, Exploration, Idéation, Génération, Evaluation, et tutti quanti.
+2. **Deuxième séance** Le temps nous étant compté, nous irons droit au but : générer le squelette d'une application Web sur la base d'un template existant. Un peu de technique (HTML, CSS) et pas mal de créativité.
+3. **Troisième séance** Un créneau pour votre projet avec un accompagnement constructif :-)
 
 # Évaluation du cours
 Ce cours sera donc évalué au travers du projet que vous réaliserez lors de l'UV CDAW. Globalement, on s'intéresse ici aux aspects méthodologiques, graphiques, ergonomiques et imaginatifs. En gros, je vais observer vos compétences : 
@@ -33,7 +33,7 @@ Par la suite, ce concept a été réutilisé à toutes les sauces et surtout com
 
 Ce qui pose problème, c'est que l'humain est complexe, le contexte peut l'être aussi. Et de fait on ne peut pas évaluer l'interaction entre l'humain et le systéme comme dans une chambre blanche...
 
-Il existe pas mal de modèle de l'UX, on ne rentre pas dans les détails, mais c'est assez passionnant. Il existe même des modèles de méthodes de recherche en informatique centrée humain qui utilisne tces concepts (telle [THEDRE](http://thedre.imag.fr)). Si vous voulez en savoir plus, la [bibliographie](bibliographie.md) est là pour ça !
+Il existe pas mal de modèle de l'UX, on ne rentre pas dans les détails, mais c'est assez passionnant. Il existe même des modèles de méthodes de recherche en informatique centrée humain qui utilisent ces concepts (telle [THEDRE](http://thedre.imag.fr)). Si vous voulez en savoir plus, la [bibliographie](bibliographie.md) est là pour ça !
 
 ## UX Design, qu'est ce donc ?
 L'UX Design consiste à tenir compte de l'expérience utilisateur dès le démarrage du projet, au début du cycle de conception d'un produit (site ou application Web dans notre cas). Il s'agit de concevoir pour eux, mais surtout avec eux. On se place dans le paradigme de la CCU qui est spécifiée par la norme ISO 9241-210. Lallemend et Gronier en donne les grandes lignes (avec ma libre adaptation) :
